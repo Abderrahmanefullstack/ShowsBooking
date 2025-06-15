@@ -38,11 +38,4 @@ Explore the code and contribute to the project:
 
 ---
 
-## 📺 **Docker Playlist**
-Learn more about Docker with this playlist:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
-
----
-
-
 ## 🎉 **Happy Learning!**  
